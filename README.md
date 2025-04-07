@@ -2,13 +2,10 @@
 
 Verilog Projects:
 
-UART implementation
-
-I2C implementation
-
-SPI implementation
-
-PWM implementation
+- UART implementation
+- I2C implementation
+- SPI implementation
+- PWM implementation
 
 repository link: https://github.com/Harshita-Gangaswamy/Verilog-Projects.git
 
