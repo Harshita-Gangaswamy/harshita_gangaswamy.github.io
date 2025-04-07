@@ -1,10 +1,15 @@
 # harshita_gangaswamy.github.io
 
 Verilog Projects:
+
 UART implementation
+
 I2C implementation
+
 SPI implementation
+
 PWM implementation
+
 repository link: https://github.com/Harshita-Gangaswamy/Verilog-Projects.git
 
 List of Kattis Problems I solved using C++
